@@ -1,5 +1,4 @@
 ## Court Wakefield - Full Stack Marketer, Digital Strategy Executive, and Leadership Coach
-<img src="https://media.licdn.com/dms/image/v2/D5603AQFZf_iFUNJXuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1666123239985?e=1743638400&v=beta&t=g8kWjGQ0fbhcKIXAVfUBVjMjuvw2Ua3t-2oRAxIuCqs"  width="125px" align="left" />
 Hey there! 👋 I am a digital marketing executive with a history in web development, SEO, and design. As my daily responsibilities shift more toward leadership, I am seeking opportunities outside work to keep my programming skills up to date.<br /><br /> 
 
 🐍 I am currently working on sandbox projects to practice my newly acquired Python skills.
