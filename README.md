@@ -4,9 +4,9 @@ Hey there! 👋 I am a digital marketing executive with a history in web develop
 🐍 I am currently working on sandbox projects to practice my newly acquired Python skills.
 
 ### Let's Connect!
-📞 (972) 955-9624 - text, don't call
-✉️ court@courtwakefield.com
-💼 https://www.linkedin.com/in/courtwakefield/
+📞 (972) 955-9624 - text, don't call  
+✉️ court@courtwakefield.com  
+💼 https://www.linkedin.com/in/courtwakefield/  
 
 <!--
 **courtwakefield/courtwakefield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
