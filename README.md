@@ -1,5 +1,5 @@
 ## Hey there! 👋
-I am a digital marketing executive with a history in web development, SEO, and design. As my daily responsibilities shift more toward leadership, I am seeking opportunities outside work to keep my programming skills up to date.<br /><br /> 
+I am a digital marketing executive with a history in web development, SEO, and design. As my daily responsibilities shift more toward leadership, I am seeking opportunities outside work to keep my programming skills up to date.  
 
 🐍 I am currently working on sandbox projects to practice my newly acquired Python skills.
 
