@@ -1,4 +1,5 @@
-## Hi there 👋
+## Court Wakefield - Full Stack Marketer, Digital Strategy Executive, and Leadership Coach
+
 
 <!--
 **courtwakefield/courtwakefield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
